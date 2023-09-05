@@ -2,7 +2,7 @@
 ```
     # Favorite Fruits
     - Apples
-    - Bananars
+    - Blueberries
     - Cherries
     - Shoes
     - Elderberries
